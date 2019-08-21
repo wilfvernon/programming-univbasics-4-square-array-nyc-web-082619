@@ -5,5 +5,5 @@ def square_array(array)
   while array[counter] do
     sqarray << array[counter]
     counter += 1
-
+    sqarray
 end
