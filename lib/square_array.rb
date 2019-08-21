@@ -5,5 +5,6 @@ def square_array(array)
   while array[counter] do
     sqarray.push(array[counter] ** 2)
     counter += 1
-    puts sqarray
+end
+sqarray
 end
